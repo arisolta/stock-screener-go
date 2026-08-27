@@ -1,0 +1,34 @@
+# Binaries and build artifacts
+/stock-screener
+/stock-screener.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace and cache
+.cache/
+vendor/
+
+# Output and export files
+*.csv
+*.xlsx
+*.xls
+*.export.md
+
+# OS and IDE files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
